@@ -1,0 +1,2 @@
+# zfetch
+ A simple 🐧 fetch. 
