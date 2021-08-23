@@ -76,7 +76,7 @@ ${c1}  _____      ${nc}${USER}@${host}${reset}
 ${c1} /  __ \\     ${lc}  ${ic}${os}${reset}
 ${c1}|  /    |    ${lc}  ${ic}${kernel}${reset} 
 ${c1}|  \\___-     ${lc}  ${ic}${uptime}${reset}
-${c1}-_           ${lc}  ${ic}${packages}${reset} ${ic}(apt)
+${c1}-_           ${lc}  ${ic}${packages}${reset} ${ic}(apt)${reset}
 ${c1}  --_        ${lc}  ${ic}${shell}${reset}
 
 EOF
